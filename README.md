@@ -4,7 +4,7 @@
 
 Trabalho em grupo Módulo 4 do curso Programadores Cariocas.
 
-Proposta do trabalho:
+
 Proposta do trabalho: A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos. Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
 
 Resolução:
@@ -23,8 +23,15 @@ Entidade Alunos( id_alunos serial primary key, nome varchar(30) not null, idade 
 Como essas entidades estão relacionadas?
 Segue imagem representando o modelo desde BD:
 
-Imagem do WhatsApp de 2023-02-28 à(s) 13 35 14
+As perguntas:
 
+*Quais são as 5 maiores notas da primeira temporada ordenadas de forma decrescente*
+
+*Personagens que apareceram na série mais de 60 vezes*
+
+*Dentre os 832 personagens, quais pertencem a casa Stark*
+
+*Quais episódios começas com a palavra "The"? Qual a duração total desses episódios? Qual é o tempo do maior e o tempo do menor?*
 Cardinalidade:
 
 Resilia pode fornecer um ou vários cursos;
