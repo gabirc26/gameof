@@ -16,6 +16,15 @@ Dentro dos bancos disponíveis, escolhemos o banco de dados <strong>Game of Thro
 
 ![image](https://user-images.githubusercontent.com/83782674/223496555-374c7213-e2e0-466c-98c1-f9c58fc61c09.png)
 
+<strong>Exemplo de pergunta respondida no projeto:</strong>
+Uma das perguntas propostas por nós participantes foi: </strong>Quais personagens aparecem em mais de 60 episódios?</strong>
+
+<strong>Select utilizado para responder a pergunta:</strong>
+![image](https://user-images.githubusercontent.com/83782674/223499164-feb42dde-2421-4112-929a-bcb988aa7089.png)
+
+<strong>Gráfico montado através dos dados fornecidos pelo selec:</strong>
+![image](https://user-images.githubusercontent.com/83782674/223499385-8b4e95c9-67a6-493a-8b98-834c6c3da54a.png)
+
 ## :wrench: Tecnologias utilizadas
 mySQL Workbench 8.0 CE | Excel 
 
