@@ -18,7 +18,7 @@ Dentro dos bancos disponíveis, escolhemos o banco de dados <strong>Game of Thro
 
 <strong>Após o fornecimento dos dados, nos foram propostas 5 perguntas a serem respondidas. São elas:</strong>
 1) Quais personagens aparecem em mais de 60 episódios?
-2) Apresente os episódios que seus nomem se iniciam em "The". Dentre os mesmos, qual a maior duração e qual a menor?
+2) Episódios que seus nomes se iniciam em "The". Dentre os mesmos, qual a maior duração e qual a menor?
 3) Estão listados 823 personagens. Quais são da casa Stark?
 4) Quais as casas que ficam no norte?
 5) Dos 10 episódios da primeira temporada, quais levaram as maiores notas?
