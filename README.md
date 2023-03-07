@@ -16,7 +16,7 @@ O conjunto de dados disponíveis podem ser encontrados aqui:
 mySQL Workbench 8.0 CE | Excel 
 
 ## :handshake: Colaboradores
-Devair Martins, Filipe Rodrigues, Gabriela Rocha, Indiane Lopes e Thiago Máximo.
+<a href="https://github.com/DevairUva">Devair Martins</a>, <a href="https://github.com/Lype3d">Filipe Rodrigues</a>, <a href="https://github.com/gabirc26">Gabriela Rocha</a>, Indiane Lopes e <a href="https://github.com/Thiagomaximo94">Thiago Máximo</a>.
 
 ## :dart: Status do projeto
 Projeto finalizado.
