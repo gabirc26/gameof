@@ -1,4 +1,4 @@
-<h1 align="center"># Game of Thrones </h1>
+<h1 align="center">⚔ 🦁 🐺 Game of Thrones 🐻 🐲 🛡</h1>
 
 Trabalho em grupo Módulo 4 do curso Programadores Cariocas.
 
