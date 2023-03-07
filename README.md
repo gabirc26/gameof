@@ -1,9 +1,6 @@
-# gameofthrones
-
-
+<h1 align="center"># Game of Thrones </h1>
 
 Trabalho em grupo Módulo 4 do curso Programadores Cariocas.
-
 
 Proposta do trabalho: A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos. Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem e responder algumas perguntas com nosso modelo:
 
