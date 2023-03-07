@@ -36,7 +36,7 @@ Uma das perguntas propostas por nós participantes foi: </strong>Quais personage
 mySQL Workbench 8.0 CE | Excel 
 
 ## :handshake: Colaboradores
-:octocat: <a href="https://github.com/DevairUva">Devair Martins</a>, <a href="https://github.com/Lype3d">Filipe Rodrigues</a>, <a href="https://github.com/gabirc26">Gabriela Rocha</a>, Indiane Lopes e <a href="https://github.com/Thiagomaximo94">Thiago Máximo</a>.
+:octocat: <a href="https://github.com/DevairUva">Devair Martins</a>, <a href="https://github.com/Lype3d">Filipe Rodrigues</a>, <a href="https://github.com/gabirc26">Gabriela Rocha</a>, <a href="https://github.com/Indyllopes">Indiane Lopes</a> e <a href="https://github.com/Thiagomaximo94">Thiago Máximo</a>.
 
 ## :dart: Status do projeto
 Projeto finalizado.
