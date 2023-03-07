@@ -26,7 +26,7 @@ Dentro dos bancos disponíveis, escolhemos o banco de dados <strong>Game of Thro
 <strong>Exemplo resposta do projeto:</strong>
 Uma das perguntas propostas por nós participantes foi: </strong>Quais personagens aparecem em mais de 60 episódios?</strong>
 
-<strong>Select utilizado para responder a pergunta:</strong>
+<strong>Select utilizado para responder a pergunta:</strong></br>
 ![image](https://user-images.githubusercontent.com/83782674/223499164-feb42dde-2421-4112-929a-bcb988aa7089.png)
 
 <strong>Gráfico montado através dos dados fornecidos pelo selec:</strong>
