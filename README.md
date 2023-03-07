@@ -1,6 +1,6 @@
 <h1 align="center">⚔ 🦁 🐺 Game of Thrones 🐻 🐲 🛡</h1>
 
-<strong>Trabalho em grupo Módulo 4 do curso Programadores Cariocas</strong>
+<h2><strong>Trabalho em grupo Módulo 4 do curso Programadores Cariocas</strong></h2>
 
 <strong>Proposta do trabalho:</strong>
 Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados.
@@ -14,7 +14,7 @@ O conjunto de dados disponíveis podem ser encontrados aqui:
 
 Dentro dos bancos disponíveis, escolhemos o banco de dados <strong>Game of Thrones</strong>. Sua modelagem:
 
-![image](https://user-images.githubusercontent.com/83782674/223496555-374c7213-e2e0-466c-98c1-f9c58fc61c09.png)
+<p align="center">![image](https://user-images.githubusercontent.com/83782674/223496555-374c7213-e2e0-466c-98c1-f9c58fc61c09.png)</p>
 
 ## :wrench: Tecnologias utilizadas
 mySQL Workbench 8.0 CE | Excel 
